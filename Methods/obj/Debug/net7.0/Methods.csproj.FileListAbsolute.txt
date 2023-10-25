@@ -1,0 +1,14 @@
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\bin\Debug\net7.0\Methods.exe
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\bin\Debug\net7.0\Methods.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\bin\Debug\net7.0\Methods.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\Methods.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\Methods.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Methods\obj\Debug\net7.0\ref\Methods.dll

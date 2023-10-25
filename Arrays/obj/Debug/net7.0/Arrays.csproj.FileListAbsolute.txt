@@ -1,0 +1,14 @@
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Arrays\obj\Debug\net7.0\ref\Arrays.dll

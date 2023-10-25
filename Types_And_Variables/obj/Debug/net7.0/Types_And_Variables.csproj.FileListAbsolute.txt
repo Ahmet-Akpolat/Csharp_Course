@@ -12,3 +12,17 @@ C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Types_And_Variab
 C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.pdb
 C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.genruntimeconfig.cache
 C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\ref\Types_And_Variables.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\bin\Debug\net7.0\Types_And_Variables.exe
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\bin\Debug\net7.0\Types_And_Variables.deps.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\bin\Debug\net7.0\Types_And_Variables.runtimeconfig.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\bin\Debug\net7.0\Types_And_Variables.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\bin\Debug\net7.0\Types_And_Variables.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.AssemblyInfoInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.AssemblyInfo.cs
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\refint\Types_And_Variables.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\Types_And_Variables.genruntimeconfig.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp-Course\Csharp_Course_Solution\Types_And_Variables\obj\Debug\net7.0\ref\Types_And_Variables.dll
