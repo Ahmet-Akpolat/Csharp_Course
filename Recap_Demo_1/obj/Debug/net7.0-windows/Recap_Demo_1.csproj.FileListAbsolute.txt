@@ -1,0 +1,16 @@
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\bin\Debug\net7.0-windows\Recap_Demo_1.exe
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\bin\Debug\net7.0-windows\Recap_Demo_1.deps.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\bin\Debug\net7.0-windows\Recap_Demo_1.runtimeconfig.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\bin\Debug\net7.0-windows\Recap_Demo_1.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\bin\Debug\net7.0-windows\Recap_Demo_1.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.Form1.resources
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.csproj.GenerateResource.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.AssemblyInfoInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.AssemblyInfo.cs
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\refint\Recap_Demo_1.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\Recap_Demo_1.genruntimeconfig.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Recap_Demo_1\obj\Debug\net7.0-windows\ref\Recap_Demo_1.dll
