@@ -1,0 +1,14 @@
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\bin\Debug\net7.0\Interface_Demo.exe
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\bin\Debug\net7.0\Interface_Demo.deps.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\bin\Debug\net7.0\Interface_Demo.runtimeconfig.json
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\bin\Debug\net7.0\Interface_Demo.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\bin\Debug\net7.0\Interface_Demo.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\Interface_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\Interface_Demo.AssemblyInfoInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\Interface_Demo.AssemblyInfo.cs
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\Interface_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\Interface_Demo.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\refint\Interface_Demo.dll
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\Interface_Demo.pdb
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\Interface_Demo.genruntimeconfig.cache
+C:\Users\Ahmet Akpolat\Desktop\1B\CSharp\Csharp_Course_Solution\Interface_Demo\obj\Debug\net7.0\ref\Interface_Demo.dll

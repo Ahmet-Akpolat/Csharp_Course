@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Interfaces
 {
-    internal interface ICustomerDal
+    interface ICustomerDal
     {
         void Add();
         void Update();
